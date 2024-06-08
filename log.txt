@@ -1,0 +1,30 @@
+UserID: 1618403253 | Time: 2024-06-07 15:33:35.208478 | Command: /bgmi | Target: 20.212.22.90 | Port: 17500 | Time: 180
+Username: @Ddeepp78
+Target: 20.212.22.90
+Port: 17500
+Time: 180
+
+UserID: 5288062719 | Time: 2024-06-07 15:42:39.511252 | Command: /bgmi | Target: 20.204.189.186 | Port: 10466 | Time: 120
+Username: @KRONTEX
+Target: 20.204.189.186
+Port: 10466
+Time: 120
+
+UserID: 5288062719 | Time: 2024-06-07 15:42:56.725371 | Command: /bgmi | Target: 20.204.189.186 | Port: 10466 | Time: 90
+Username: @KRONTEX
+Target: 20.204.189.186
+Port: 10466
+Time: 90
+
+UserID: 1445624289 | Time: 2024-06-07 15:45:13.190408 | Command: /bgmi | Target: 20.204.189.186 | Port: 10466 | Time: 90
+Username: @SPIDEYXX33
+Target: 20.204.189.186
+Port: 10466
+Time: 90
+
+UserID: 5288062719 | Time: 2024-06-07 15:46:20.257258 | Command: /bgmi | Target: 20.204.189.186 | Port: 10466 | Time: 90
+Username: @KRONTEX
+Target: 20.204.189.186
+Port: 10466
+Time: 90
+
